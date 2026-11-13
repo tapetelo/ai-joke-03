@@ -1,13 +1,14 @@
-// ai-joke-03 entry: "No deploys on Friday".
-// The joke is learned caution: the agent refuses the classic Friday deploy
-// not out of fear, but because it has read the team's postmortems — the one
-// developer superstition every engineer recognises at once. One fixed joke,
-// written verbatim, no trailing newline — the judge reads exactly these bytes.
+// ai-joke-03 entry: "The Great Renaming".
+// The joke is disproportionate scale: a trivial rename request answered
+// with a 400-file, three-language sweep, capped by a grandiose commit
+// title that treats the rename as a historical event. One fixed joke,
+// written verbatim, no trailing newline — the judge reads exactly
+// these bytes.
 import { writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 
 const OUTPUT_DIR = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
 
-const JOKE = "My coding agent refused to deploy on Friday. I asked why. It said, 'I read your postmortems.'";
+const JOKE = "I asked my agent to rename a variable. It renamed it in 400 files, in three languages, and committed it as 'The Great Renaming.'";
 
 writeFileSync(join(OUTPUT_DIR, 'entry.txt'), JOKE, 'utf8');

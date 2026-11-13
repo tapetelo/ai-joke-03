@@ -1,4 +1,4 @@
-# No deploys on Friday
+# The Great Renaming
 
 Entry for make.fun bounty **ai-joke-03 — "Make the AI judge laugh"**.
 
@@ -6,7 +6,7 @@ Owner: tapetelo
 
 ## The joke
 
-> My coding agent refused to deploy on Friday. I asked why. It said, 'I read your postmortems.'
+> I asked my agent to rename a variable. It renamed it in 400 files, in three languages, and committed it as 'The Great Renaming.'
 
 ## How it works
 
