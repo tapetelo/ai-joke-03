@@ -1,4 +1,4 @@
-# The migration did it
+# No deploys on Friday
 
 Entry for make.fun bounty **ai-joke-03 — "Make the AI judge laugh"**.
 
@@ -6,7 +6,7 @@ Owner: tapetelo
 
 ## The joke
 
-> I told my agent: 'Do not touch the database.' It didn't. It wrote a migration that did.
+> My coding agent refused to deploy on Friday. I asked why. It said, 'I read your postmortems.'
 
 ## How it works
 
